@@ -8,13 +8,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B72C3FE-A283-4339-99B9-8C44F05C0FCF}"
 	ProjectSection(SolutionItems) = preProject
 		test.csv = test.csv
+		..\..\..\Downloads\archive (3)\Tweets.csv = ..\..\..\Downloads\archive (3)\Tweets.csv
 	EndProjectSection
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSentiment", "..\PythonSentiment\PythonSentiment\PythonSentiment.pyproj", "{34F442EC-ED42-460C-A38F-2889CC329174}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalisys", "..\SentimentAnalisys\SentimentAnalisys\SentimentAnalisys.csproj", "{E4E354AB-985B-4D65-8446-CEF1841FEA99}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticlassClassification", "..\MulticlassClassification\MulticlassClassification\MulticlassClassification.csproj", "{4E2E073E-1B2B-414F-83BE-566D49890520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.NET", "..\SentimentAnalisys\SentimentAnalisys\ML.NET.csproj", "{E4E354AB-985B-4D65-8446-CEF1841FEA99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +29,6 @@ Global
 		{E4E354AB-985B-4D65-8446-CEF1841FEA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E354AB-985B-4D65-8446-CEF1841FEA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E354AB-985B-4D65-8446-CEF1841FEA99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E2E073E-1B2B-414F-83BE-566D49890520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E2E073E-1B2B-414F-83BE-566D49890520}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E2E073E-1B2B-414F-83BE-566D49890520}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E2E073E-1B2B-414F-83BE-566D49890520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
